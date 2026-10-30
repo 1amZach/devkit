@@ -87,6 +87,10 @@ lib.zones.poly({
 
 See `config.lua`. You can change the command, keybind, ace name, decimal places and colours.
 
+## Support
+
+Made by **IamZach**. Questions, bugs or ideas: [discord.gg/agn](https://discord.gg/agn)
+
 ## License
 
 MIT

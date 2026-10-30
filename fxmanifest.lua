@@ -5,6 +5,8 @@ lua54 'yes'
 name 'devkit'
 description 'In-game tools for building and mapping out servers'
 version '0.1.0'
+author 'IamZach'
+discord 'https://discord.gg/agn'
 
 shared_scripts {
     '@ox_lib/init.lua',
