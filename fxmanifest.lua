@@ -7,6 +7,7 @@ description 'In-game tools for building and mapping out servers'
 version '0.1.0'
 author 'IamZach'
 discord 'https://discord.gg/agn'
+repository 'https://github.com/1amZach/devkit'
 
 shared_scripts {
     '@ox_lib/init.lua',
